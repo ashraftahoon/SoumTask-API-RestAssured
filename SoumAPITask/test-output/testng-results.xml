@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-11T01:54:39 EET" name="Default suite" finished-at="2024-02-11T01:54:47 EET" duration-ms="8308">
+    <groups>
+    </groups>
+    <test started-at="2024-02-11T01:54:39 EET" name="Default test" finished-at="2024-02-11T01:54:47 EET" duration-ms="8308">
+      <class name="testproductapi.ProductAPITests">
+        <test-method signature="testGetAllProducts()[pri:0, instance:testproductapi.ProductAPITests@3246fb96]" started-at="2024-02-11T01:54:39 EET" name="testGetAllProducts" finished-at="2024-02-11T01:54:43 EET" duration-ms="4261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAllProducts -->
+        <test-method signature="testGetProductsInvalidPage()[pri:0, instance:testproductapi.ProductAPITests@3246fb96]" started-at="2024-02-11T01:54:43 EET" name="testGetProductsInvalidPage" finished-at="2024-02-11T01:54:44 EET" duration-ms="966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetProductsInvalidPage -->
+        <test-method signature="testGetProductsInvalidSize()[pri:0, instance:testproductapi.ProductAPITests@3246fb96]" started-at="2024-02-11T01:54:44 EET" name="testGetProductsInvalidSize" finished-at="2024-02-11T01:54:45 EET" duration-ms="1041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetProductsInvalidSize -->
+        <test-method signature="testGetProductsPage1WithSize10()[pri:0, instance:testproductapi.ProductAPITests@3246fb96]" started-at="2024-02-11T01:54:45 EET" name="testGetProductsPage1WithSize10" finished-at="2024-02-11T01:54:46 EET" duration-ms="1082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetProductsPage1WithSize10 -->
+        <test-method signature="testGetProductsPage2WithSize3()[pri:0, instance:testproductapi.ProductAPITests@3246fb96]" started-at="2024-02-11T01:54:46 EET" name="testGetProductsPage2WithSize3" finished-at="2024-02-11T01:54:47 EET" duration-ms="902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetProductsPage2WithSize3 -->
+      </class> <!-- testproductapi.ProductAPITests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
